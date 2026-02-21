@@ -1,4 +1,13 @@
-// ============================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cricket28</title>
+</head>
+<body>
+<canvas id="gameCanvas"></canvas>
+<script src="script.js"></script>
+</body>
+</html>// ============================================
 // COMPLETE CRICKET GAME - ALL IN ONE FILE
 // ============================================
 
